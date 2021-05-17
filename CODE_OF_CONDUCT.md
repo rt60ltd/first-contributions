@@ -1,6 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-RobT edit
 
 ## Our Pledge
 
